@@ -55,3 +55,11 @@ body {
     color: #65058D;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;	
 }
+
+.col-md-5{
+    background-color: #E3BEF1;		
+}
+
+.col-md-7{
+    background-color: #EEDAF2;	
+}
